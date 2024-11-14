@@ -27,3 +27,56 @@ Identifier les compétences nécessaires (techniques, rédactionnelles, organisa
 Mobiliser des membres ayant une expérience pertinente pour garantir la qualité du livrable.
 Définir les rôles et responsabilités de chaque membre.
 
+
+
+Dimensionner le projet 
+- Objectifs précis.  
+- Taille et complexité.  
+- Ressources nécessaires.  
+
+Constituer une équipe  
+- Profils adaptés.  
+- Expertise nécessaire.  
+- Répartition des rôles.  
+
+   
+
+
+Fiabiliser l’emploi des ressources et le planning  
+- Gestion efficace.  
+- Respect des délais.  
+- Planification rigoureuse.  
+
+Développer son équipe
+- Formation.
+
+
+ Les aspects financiers  
+ Suivi des coûts.  
+ Analyse des flux.  
+
+Les budgets
+ Préparation.  
+ Allocation.  
+ Révision. 
+
+ Le compte de résultat
+Bilan.  
+  Dépenses vs revenus.  
+ Marges.  
+
+
+
+La règlementation concernant la protection des données personnelles  
+- RGPD.  
+  Sécurité
+ Confidentialité.  
+
+ Le cadre contractuel du projet
+Contrats.  
+  Obligations.  
+  Responsabilités 
+
+ Étude financière du site
+Rentabilité
+
